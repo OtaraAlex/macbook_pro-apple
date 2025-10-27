@@ -61,10 +61,11 @@ const Showcase = () => {
               </p>
               <p>
                 <a
-                  href="https://www.apple.com/macbook-pro/"
+                  href="https://www.apple.com/apple-intelligence/"
                   className="text-primary hover:underline"
-                  noreferrer
-                  noopener
+                  rel=" noreferrer
+                  noopener"
+                  target="_blank"
                 >
                   Learn more about Apple Intelligence
                 </a>
