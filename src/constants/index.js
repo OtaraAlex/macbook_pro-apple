@@ -121,11 +121,17 @@ const featureSequence = [
 ];
 
 const footerLinks = [
-  { label: "Privacy Policy", link: "#" },
-  { label: "Terms of Use", link: "#" },
-  { label: "Sales Policy", link: "#" },
-  { label: "Legal", link: "#" },
-  { label: "Site Map", link: "#" },
+  { label: "Privacy Policy", link: "https://www.apple.com/legal/privacy/" },
+  {
+    label: "Terms of Use",
+    link: "https://www.apple.com/legal/internet-services/terms/site.html",
+  },
+  {
+    label: "Sales Policy",
+    link: "https://www.apple.com/us/shop/goto/help/sales_refunds",
+  },
+  { label: "Legal", link: "https://www.apple.com/legal/" },
+  { label: "Site Map", link: "https://www.apple.com/sitemap/" },
 ];
 
 export {
